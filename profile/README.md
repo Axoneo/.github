@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Axoneo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Axoneo"/>
 
 <h2 align="center">Projects</h1>
 <table>
@@ -28,5 +28,5 @@ Featured projects are currently in development. Stay tuned for exciting updates!
 <h2 align="center">Visitors</h1>
 <img src="https://count.getloli.com/get/@axoneo?theme=gelbooru" width="350"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
 <div>
